@@ -32,7 +32,7 @@ It should be clarified that we did not use the ROI augmentation strategy, and so
 
 
 ## Data Preparation
-See the description in the [VQA section]((###VQA)).
+See the description in the [VQA section](###VQA).
 
 
 ## Pretrain
@@ -56,7 +56,7 @@ The first argument `0` is GPU id. The second argument `stage1_tiny` is the name 
     bash stage2.bash 0 vqa_finetune --load_lxmert=$YOUR_STAGE1_CKPT.pth$
  
    
-### VQA
+## VQA
 #### Fine-tuning
 1. Please make sure the LXMERT pre-trained model is  [pre-trained](##Pretrain).
 
