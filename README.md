@@ -3,7 +3,7 @@
 
 
 ## Introduction
-This is an unofficial PyTorch implementation of NeurIPS2020 paper [Self-Supervised Relationship Probing"](https://proceedings.neurips.cc/paper/2020/hash/13f320e7b5ead1024ac95c3b208610db-Abstract.html)
+This is an unofficial PyTorch implementation of NeurIPS2020 paper [Self-Supervised Relationship Probing"](https://proceedings.neurips.cc/paper/2020/hash/13f320e7b5ead1024ac95c3b208610db-Abstract.html).
 Most codes in this project is ported from the repos below:
 - https://github.com/sthalles/SimCLR (Contrastive learning part)
 
@@ -32,7 +32,7 @@ It should be clarified that we did not use the ROI augmentation strategy, and so
 
 
 ## Data Preparation
-See the description in the [VQA section]((### VQA)).
+See the description in the [VQA section]((###VQA)).
 
 
 ## Pretrain
